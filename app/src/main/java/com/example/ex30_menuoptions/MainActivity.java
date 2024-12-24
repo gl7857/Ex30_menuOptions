@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
                 exponent--;
             }
         }
+
         return String.format("%.3f * 10^%d", coefficient, exponent);
     }
 
