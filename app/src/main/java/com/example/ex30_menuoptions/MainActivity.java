@@ -97,6 +97,7 @@ public class MainActivity extends AppCompatActivity {
                 num2et.setText("");
             }
         }
+
         return true;
     }
 }
